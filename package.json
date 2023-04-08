@@ -1,0 +1,15 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": [
+    "rollup"
+  ],
+  "author": "",
+  "license": "ISC"
+}
